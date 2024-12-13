@@ -1,0 +1,80 @@
+body {
+ font-family:Roboto;
+
+
+
+}
+
+.header {
+background-color: #1f2937;
+color:white;
+
+display:flex;
+flex-direction:column;
+padding-left:200px;
+padding-right:200px;
+
+
+.container1 {
+    display:flex;
+    padding-bottom:100px;
+
+}
+
+
+.container2 {
+ display:flex;
+ padding-bottom:100px;
+
+}
+
+
+
+
+.signup-title {
+   font-size:48px;
+   color:#F9FAF8;
+   font-weight:900;
+
+}
+
+.signup-msg{
+  font-size:18px;
+  color:#E5E7EB;
+
+  padding:16px 0;
+
+  
+}
+
+a{
+ text-decoration:none;
+ color:#E5E7EB;
+}
+
+ul {
+ list-style-type:none;
+ display:flex;
+ margin-left:auto;
+
+ gap:25px;
+
+}
+
+.hero-text {
+    max-width:400px;
+    padding-right:300px;
+}
+
+.button {
+    border-radius: 10px;
+    background-color:#3882F6;
+    color:white;
+    font-size:21px;
+    font-weight:900;
+    padding:12px 50px;
+
+    border: none;
+
+
+}
