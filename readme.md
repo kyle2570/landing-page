@@ -1,1 +1,1 @@
-Project for odin project foundatoins course: Flexbox section
+Project for Odin Project foundations course: Flexbox section
